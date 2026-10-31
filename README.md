@@ -1,6 +1,6 @@
-# Olá, eu sou o Kaio 👋
+# Olá, eu sou Kaio 👋
 
-Estudante de **Tecnologia da Informação na UFRN (IMD)**, focado em **desenvolvimento back-end com Java e Spring Boot**. Gosto de transformar problemas do dia a dia em software — de organizar a pelada dos amigos a tutores inteligentes com IA.
+Estudante de **Tecnologia da Informação na UFRN (IMD)**, focado em **desenvolvimento back-end com Java e Spring Boot**. Gosto de transformar problemas do dia a dia em software
 
 - 🔭 Atualmente: construindo o **PelManager**, uma aplicação full-stack para organizar peladas de futebol
 - 🌱 Estudando: Spring Boot, APIs REST, estruturas de dados e programação concorrente

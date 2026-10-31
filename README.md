@@ -34,6 +34,9 @@ Estudante de **Tecnologia da Informação na UFRN (IMD)**, focado em **desenvolv
 ## 📊 Estatísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaiozinalves&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiozinalves&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaiozinalves&theme=transparent" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiozinalves&theme=transparent" alt="Linguagens mais usadas" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Kaiozinalves&locale=pt_BR&hide_border=true&theme=transparent" alt="Sequência de contribuições" />
 </p>
